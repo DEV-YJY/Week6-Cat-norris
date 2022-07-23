@@ -1,0 +1,23 @@
+*{
+  margin: 0px;
+  padding:0px;
+  
+}
+
+body{
+  background-color: orange;
+  /* background-image: url('./images/cat-norris_v2.png'); */
+}
+.spin{
+  height: 3em;
+  width: 3em;
+}
+.norris{
+  width: 35%;
+}
+.norris:hover{
+  cursor: pointer;
+    /* border: 1px solid; */
+    padding: 10px;
+    box-shadow: 5px 10px red;
+  }
