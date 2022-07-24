@@ -1,29 +1,23 @@
-# Fullstack boilerplate
+# Week 6 project: Cat Norris
 
-## Getting Started
+This is an application that generates a random cat photo with a Chuck Norris quote.
 
-### From the Github UI
-See the instructions [here](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template) to use Github's feature to create a new repo from a template.
+- A user can:
+  - Click and view the details of the random movie.
+  
+  
+## Demonstration
+https://cat-norris.herokuapp.com/ - warning** some quotes may not be family friendly.
 
-### From the command line
 
-```
-git clone https://github.com/dev-academy-challenges/boilerplate-fullstack [your-project-name]
-cd [your-project-name]
-npm install # to install dependencies
-npm run dev # to start the dev server
-```
 
-You can find the server running on [http://localhost:3000](http://localhost:3000).
 
-## Details
+## Reflection
+It is a simple app that uses two external API. The team agreed to aim to build a simple application and focused to learn testing. 
 
-This repo includes:
 
-* a single, simple API endpoint (`/api/v1/fruits`)
-* a single React component (`<App />`)
-* an example database module (`server/db/fruits.js`)
-* an API client module (`client/apis/fruits.js`)
-* configuration for Jest and testing library
-* configuration for server-side debugging in VS Code
-* a single client-side test (`client/components/App.test.js`)
+
+## Authors
+- **[YJ You](https://github.com/DEV-YJY)**
+- **[Jillian Eccles](https://github.com/FireDivine)**
+- **[Tim Greenslade](https://github.com/treegroves)**
