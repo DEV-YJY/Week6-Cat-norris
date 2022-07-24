@@ -3,7 +3,7 @@
 This is an application that generates a random cat photo with a Chuck Norris quote.
 
 - A user can:
-  - Click and view the details of the random movie.
+  - Click and view a cat photo with Chuck Norris quote generated in a random order.
   
   
 ## Demonstration
